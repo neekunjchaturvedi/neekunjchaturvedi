@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neekunjchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neekunjchaturvedi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/neekunj-chaturvedi-293223257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neekunjchaturvedi" height="30" width="40" /></a>
 <a href="https://kaggle.com/neekunjchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="neekunjchaturvedi" height="30" width="40" /></a>
-<a href="https://dribbble.com/neekunj chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="neekunj chaturvedi" height="30" width="40" /></a>
+<a href="https://dribbble.com/neekunjchaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="neekunj chaturvedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neekunjchaturvedi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neekunjchaturvedi3" height="30" width="40" /></a>
 </p>
 
