@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neekunjchaturvedi&label=Profile%20views&color=0e75b6&style=flat" alt="neekunjchaturvedi" /> </p>
 
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **A Website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **MERN**
+- 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Data Science ML Web**
+- 💬 Ask me about **ML Web**
 
 - 📫 How to reach me **neekunjchaturvedi3@gmail.com**
 
