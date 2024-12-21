@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with **DSA**
 - 💬 Ask me about **ML Web**
 - 📫 How to reach me **neekunjchaturvedi3@gmail.com**
-- ⚡ Fun fact **I think I'm Blessed**
+
 
 ---
 
