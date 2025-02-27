@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neekunj Chaturvedi</h1>
-<h3 align="center">A Frontend Developer and UI/UX Designer from India</h3>
+<h3 align="center">A Full-Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neekunjchaturvedi&label=Profile%20views&color=0e75b6&style=flat" alt="neekunjchaturvedi" />
