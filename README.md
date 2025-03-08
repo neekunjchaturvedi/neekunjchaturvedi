@@ -8,8 +8,8 @@
 
 ---
 
-- 🔭 I’m currently working on **A Website**
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m currently working with **WallStorie**
+- 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate on **Projects**
 - 🤝 I’m looking for help with **DSA**
 - 💬 Ask me about **ML Web**
