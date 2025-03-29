@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working with **WallStorie**
+- 🔭 I’m currently working with **Movicaart**
 - 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate on **Projects**
 - 🤝 I’m looking for help with **DSA**
@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-  
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -55,6 +53,10 @@
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/Hero%20UI-0F83C7?style=for-the-badge&logo=hero-ui&logoColor=white" alt="Hero UI" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Echo%20API-2E86AB?style=for-the-badge&logo=api&logoColor=white" />
+
+
 
 </div>
 
