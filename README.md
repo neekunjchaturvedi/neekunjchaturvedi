@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working with **Movicaart**
+- 🔭 I’m currently working with **Moovicart**
 - 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate on **Projects**
 - 🤝 I’m looking for help with **DSA**
