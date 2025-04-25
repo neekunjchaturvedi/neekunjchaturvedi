@@ -9,10 +9,10 @@
 ---
 
 - 🔭 I’m currently working with **Moovicart**
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Expo**
 - 👯 I’m looking to collaborate on **Projects**
 - 🤝 I’m looking for help with **DSA**
-- 💬 Ask me about **ML Web**
+- 💬 Ask me about **Web**
 - 📫 How to reach me **neekunjchaturvedi3@gmail.com**
 
 
