@@ -40,14 +40,8 @@
 
 ---
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neekunjchaturvedi&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=neekunjchaturvedi&theme=radical&hide_border=true" height="165" />
 
-</div>
-
----
 
 ## 🚩 About Me
 
@@ -58,7 +52,7 @@
 - 📬 Email: <a href="mailto:neekunjchaturvedi3@gmail.com">neekunjchaturvedi3@gmail.com</a>
 - 🧠 Always tinkering—side projects, code, design, and community
 
----
+
 
 
 ## 🛠️ Tech Stack
@@ -94,7 +88,7 @@
 
 </div>
 
----
+
 ## 💡 What I Enjoy
 
 ```log
@@ -105,8 +99,13 @@
 🧑‍💻 Sharpening my DSA and solving problems on Leetcode
 ```
 
----
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neekunjchaturvedi&show_icons=true&theme=dark&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=neekunjchaturvedi&theme=dark&hide_border=true" height="165" />
+
+</div>
 
 
 ## 🌐 Connect With Me
