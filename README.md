@@ -45,7 +45,7 @@
 
 ## 🚩 About Me
 
-- 🛠️ Currently building at <b>Moovicart</b>
+- 🛠️ Currently building at <b>Outceedo</b>
 - 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b>
 - 🤝 Open to collaborating on ambitious products & OSS
 - 💬 Ask me about <b>React, Node.js, Modern UI, DSA, Productivity</b>
