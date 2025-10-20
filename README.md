@@ -4,7 +4,7 @@
 
 <!-- Glitch/ASCII/Code headline style -->
 <h3>
-  Full-StacK Developer | Problem Solver | Tech Enthusiast
+  Full-Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
 
 <!-- Emoji divider headline style -->
@@ -45,12 +45,12 @@
 
 ## 🚩 About Me
 
-- 🛠️ Currently building at <b>Outceedo</b>
-- 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b>
+- 🛠️ Currently building <b>SpectraQ</b>
+- 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b> and <b>Web3</>
 - 🤝 Open to collaborating on ambitious products & OSS
-- 💬 Ask me about <b>React, Node.js, Modern UI, DSA, Productivity</b>
+- 💬 Ask me about <b>MERN, Modern UI, Blockchain, Cloud , System Design and StartUps</b>
 - 📬 Email: <a href="mailto:neekunjchaturvedi3@gmail.com">neekunjchaturvedi3@gmail.com</a>
-- 🧠 Always tinkering—side projects, code, design, and community
+- 🧠 Always Building side projects, code, design, and community
 
 
 
@@ -73,7 +73,7 @@
 
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,postman" /><br>
-<img src="https://skillicons.dev/icons?i=vite,npm,git,github" /><br>
+<img src="https://skillicons.dev/icons?i=vite,npm,git,github,aws,githubactions" /><br>
 
 
 
@@ -95,7 +95,7 @@
 
 ```log
 🚀 Shipping products from 0→1 (and beyond)
-🧩 Architecting scalable web & mobile systems
+🧩 Architecting scalable web systems
 🎨 Designing pixel-perfect, accessible interfaces
 🛠️ Automating workflows & boosting team velocity
 🧑‍💻 Sharpening my DSA and solving problems on Leetcode
