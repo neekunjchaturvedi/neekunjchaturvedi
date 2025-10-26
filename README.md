@@ -46,7 +46,7 @@
 ## 🚩 About Me
 
 - 🛠️ Currently building <b>SpectraQ</b>
-- 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b> and <b>Web3</>
+- 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b> and <b>Web3</b>
 - 🤝 Open to collaborating on ambitious products & OSS
 - 💬 Ask me about <b>MERN, Modern UI, Blockchain, Cloud , System Design and StartUps</b>
 - 📬 Email: <a href="mailto:neekunjchaturvedi3@gmail.com">neekunjchaturvedi3@gmail.com</a>
