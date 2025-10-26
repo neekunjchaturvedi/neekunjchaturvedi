@@ -72,7 +72,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,postman" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,mysql,postman" /><br>
 <img src="https://skillicons.dev/icons?i=vite,npm,git,github,aws,githubactions" /><br>
 
 
