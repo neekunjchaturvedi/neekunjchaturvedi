@@ -4,7 +4,7 @@
 
 <!-- Glitch/ASCII/Code headline style -->
 <h3>
-  Full-Stack Developer | Problem Solver | Tech Enthusiast
+  Full-Stack Developer | Software Engineer | Tech Enthusiast
 </h3>
 
 <!-- Emoji divider headline style -->
