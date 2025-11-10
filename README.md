@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Shipping-success?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Stack-React,%20Node,%20Express,%20NoSQL-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20System Design-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Building%20%26%20System Design-blue?style=flat-square" />
 </p>
 
 <p>
@@ -74,6 +74,7 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,mysql,postman" /><br>
 <img src="https://skillicons.dev/icons?i=vite,npm,git,github,aws,githubactions" /><br>
+<img src="https://skillicons.dev/icons?i=docker,redis,supabase,rabbitmq,markdown,bash,sass" /><br>
 
 
 
@@ -98,7 +99,7 @@
 🧩 Architecting scalable web systems
 🎨 Designing pixel-perfect, accessible interfaces
 🛠️ Automating workflows & boosting team velocity
-🧑‍💻 Sharpening my DSA and solving problems on Leetcode
+🧑‍💻 Enginnering Softwares that actually make the world a better place
 ```
 
 
