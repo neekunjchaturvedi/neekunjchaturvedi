@@ -51,6 +51,7 @@
 - 💬 Ask me about <b>MERN, Modern UI, Blockchain, Cloud , System Design and StartUps</b>
 - 📬 Email: <a href="mailto:neekunjchaturvedi3@gmail.com">neekunjchaturvedi3@gmail.com</a>
 - 🧠 Always Building side projects, code, design, and community
+- 🔥 Running on Caffeine & Code
 
 
 
@@ -93,14 +94,21 @@
 
 
 ## 💡 What I Enjoy
+- 🚀 Shipping products from 0→1 (and beyond)
+- 🧩 Architecting scalable web systems
+- 🎨 Designing pixel-perfect, accessible interfaces
+- 🛠️ Automating workflows & boosting team velocity
+- 🧑‍💻 Enginnering Softwares that actually make the world a better place
 
-```log
-🚀 Shipping products from 0→1 (and beyond)
-🧩 Architecting scalable web systems
-🎨 Designing pixel-perfect, accessible interfaces
-🛠️ Automating workflows & boosting team velocity
-🧑‍💻 Enginnering Softwares that actually make the world a better place
+
+## Logs I love
 ```
+[VITE] Local dev server running at: http://localhost:5173
+[SERVER] Node API server listening on port 8000
+[DOCKER] Building image: app-service:latest
+[HTTP] 200 OK — /api/login (124ms)
+```
+
 
 
 <div align="center">
@@ -128,3 +136,5 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+
+
