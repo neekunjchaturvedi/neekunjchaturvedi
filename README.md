@@ -1,5 +1,5 @@
 <div align="center">
-![My GitHub Game](game.gif)
+
 
 <h1>👋 I'm <span style="color:#0e75b6;"><strong>Neekunj Chaturvedi</strong></span></h1>
 
