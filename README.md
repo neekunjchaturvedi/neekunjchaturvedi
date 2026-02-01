@@ -1,107 +1,49 @@
 <div align="center">
+![My GitHub Game](game.gif)
 
-<h1>👋 Hi, I'm <span style="color:#0e75b6;"><strong>Neekunj Chaturvedi</strong></span></h1>
+<h1>👋 I'm <span style="color:#0e75b6;"><strong>Neekunj Chaturvedi</strong></span></h1>
 
-<!-- Glitch/ASCII/Code headline style -->
-<h3>
-  Full-Stack Developer | Software Engineer | Tech Enthusiast
-</h3>
+### Co-Founder @ [Renard.live](https://renard.live) | Software Engineer
 
-<!-- Emoji divider headline style -->
-
-
-<!-- Gradient/Highlight headline style -->
-<h3>
-  <span style="background: linear-gradient(90deg, #00c3ff 0%, #ffff1c 100%); color: #222; padding: 0 8px; border-radius: 6px;">
-    Building Systems,  <span style="font-style:italic; color:#0e75b6;">Actually Engineering them</span>
-  </span>
-</h3>
-
-<!-- Meme/fun title -->
-<h3>
-  
-</h3>
+**I build systems that don't fail. I actually Engineer software.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Shipping-success?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stack-React,%20Node,%20Express,%20NoSQL-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Building%20%26%20System Design-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Scaling%20Renard-success?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-High%20Availability%20%26%20Scalability-blue?style=flat-square" />
 </p>
+🚀Coding since 2022💪
 
-<p>
-  <em>
-    Turning ideas into clean, scalable, and top-end software.<br>
-    I build, learn, share, and iterate—always on the lookout for the next challenge.<br>
-   
-  </em> <strong>🚀Coding since 2022💪</strong>
-</p>
+## </div>
 
-</div>
-
----
-
-
-
+![My GitHub Game](game.gif)
 
 ## 🚩 About Me
 
-- 🛠️ Currently building <b>SpectraQ</b>
+- 🛠️ Currently building <b>Galade</b>
 - 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b> and <b>Web3</b>
 - 🤝 Open to collaborating on ambitious products & OSS
-- 💬 Ask me about <b>MERN, Modern UI, Blockchain, Cloud , System Design and StartUps</b>
+- 💬 Ask me about <b>Softwares, Modern UI, Blockchain, Cloud , System Design and StartUps</b>
 - 📬 Email: <a href="mailto:neekunjchaturvedi3@gmail.com">neekunjchaturvedi3@gmail.com</a>
-- 🧠 Always Building side projects, code, design, and community
-- 🔥 Running on Caffeine & Code
+- 🧠 Always Building, code, design, and community
+- 🔥 Running on pure Instinct
 
+## 🏗️ I Can't Avoid
 
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java" /><br>
-
-
-
-
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,figma" /><br>
-
-
-
-
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,mysql,postman" /><br>
-<img src="https://skillicons.dev/icons?i=vite,npm,git,github,aws,githubactions" /><br>
-<img src="https://skillicons.dev/icons?i=docker,redis,supabase,rabbitmq,markdown,bash,sass" /><br>
-
-
-
-
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
-
-
-</div>
-
+- **Development and Building**
+- **System Design & Architecture**
+- **Infrastructure & DevOps**
+- **Scaling**
 
 ## 💡 What I Enjoy
+
 - 🚀 Shipping products from 0→1 (and beyond)
-- 🧩 Architecting scalable web systems
-- 🎨 Designing pixel-perfect, accessible interfaces
+- 🧩 Architecting scalable software systems
+- 🎨 Designing pixel-perfect, accessible UI
 - 🛠️ Automating workflows & boosting team velocity
 - 🧑‍💻 Enginnering Softwares that actually make the world a better place
 
-
 ## Logs I love
+
 ```
 [VITE] Local dev server running at: http://localhost:5173
 [SERVER] Node API server listening on port 8000
@@ -109,15 +51,12 @@
 [HTTP] 200 OK — /api/login (124ms)
 ```
 
-
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=neekunjchaturvedi&show_icons=true&theme=dark&hide_border=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=neekunjchaturvedi&theme=dark&hide_border=true" height="165" />
 
 </div>
-
 
 ## 🌐 Connect With Me
 
@@ -136,5 +75,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
-
