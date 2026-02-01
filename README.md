@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <h1>👋 I'm <span style="color:#0e75b6;"><strong>Neekunj Chaturvedi</strong></span></h1>
 
 ### Co-Founder @ [Renard.live](https://renard.live) | Software Engineer
@@ -13,9 +12,9 @@
 </p>
 🚀Coding since 2022💪
 
-## </div>
-
 ![My GitHub Game](game.gif)
+
+</div>
 
 ## 🚩 About Me
 
