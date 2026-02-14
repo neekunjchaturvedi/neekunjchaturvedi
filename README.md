@@ -2,7 +2,7 @@
 
 <h1>👋 I'm <span style="color:#0e75b6;"><strong>Neekunj Chaturvedi</strong></span></h1>
 
-### Co-Founder @ [Renard.live](https://renard.live) | Software Engineer
+### Software Engineer
 
 **I build systems that don't fail. I actually Engineer software.**
 
