@@ -82,7 +82,6 @@ incidents_caused_by_scale{}                   0     # the whole point
 
 ## Telemetry
 
-<img src="https://github-readme-stats.vercel.app/api?username=neekunjchaturvedi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=neekunjchaturvedi&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e" height="160" />
 
 ## Endpoints
